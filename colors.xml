@@ -1,0 +1,7 @@
+<resources>
+    <color name="green_light">#B7E86A</color>
+    <color name="green">#16B86A</color>
+    <color name="green_dark">#087A4B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_dark">#174D35</color>
+</resources>
